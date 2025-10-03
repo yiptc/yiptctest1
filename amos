@@ -1,0 +1,112 @@
+
+To ensure compliance with the Monetary Authority of Macao (AMCM)’s Guideline on Cloud Outsourcing for the Insurance Sector (issued May 1, 2025), all new applications or changes to existing applications involving cloud service providers (CSPs) must follow a structured process. Below is a summary of key requirements to be integrated into our IT procedures:
+
+🔹 1. Applicability
+The guidelines apply to material Cloud Arrangements, including:
+
+Storage/processing of customer or staff data (e.g., PII, financial data)
+
+Business operational systems
+
+Regulatory, accounting, or internal control systems (e.g., audit, risk, compliance)
+
+Even if the CSP is engaged by our head office, we must still comply.
+
+🔹 2. Pre-Engagement Process
+Before entering into any material Cloud Arrangement:
+
+Risk Assessment & Due Diligence:
+
+Assess CSP’s financial stability, technical capability, security controls, and regulatory compliance.
+
+Include cloud-specific risks: multi-tenancy, data location, concentration, and supply chain risks.
+
+Consult AMCM:
+
+Discuss and seek approval from AMCM before signing any agreement.
+
+🔹 3. Governance & Documentation
+Establish a Cloud Outsourcing Governance Framework covering:
+
+Roles and responsibilities
+
+Risk assessment and due diligence
+
+Ongoing monitoring and audit
+
+Data location and transfer controls
+
+Business continuity and exit strategy
+
+Submit the following to AMCM within 30 days of signing:
+
+Full description of outsourced functions
+
+CSP details and due diligence results
+
+Signed agreement copy
+
+Business continuity and exit plans
+
+Board resolution approving the arrangement
+
+🔹 4. Security & Control Requirements
+Architecture & Design:
+
+Ensure high security, availability, and resilience.
+
+Implement auto-scaling, health checks, and real-time monitoring.
+
+Data Security:
+
+Classify data and apply encryption (in-transit and at-rest).
+
+Use data loss prevention (DLP) tools like CASB.
+
+Access Management:
+
+Enforce least privilege and multi-factor authentication.
+
+Regularly review access policies.
+
+Change Management:
+
+Formalize change processes with CSP.
+
+Maintain baseline configurations and audit trails.
+
+Incident Response:
+
+Implement SIEM tools and a clear incident response plan with CSP.
+
+🔹 5. Audit & Certification
+Regularly conduct internal or external audits.
+
+Acceptable third-party certifications include:
+
+ISO/IEC 27001, 27017, 27018
+
+SOC 1, 2, or 3 reports
+
+Ensure CSP remediates any issues identified in audit reports.
+
+🔹 6. Business Continuity & Exit Strategy
+Develop and annually test disaster recovery plans.
+
+Ensure data and service portability.
+
+Plan for a smooth transition to another CSP or in-house environment.
+
+🔹 7. Transition Period
+Existing cloud arrangements must be reviewed and aligned with this guideline within 12 months.
+
+Submit a gap remediation plan to AMCM if full compliance is not yet achieved.
+
+✅ Action Items for IT Team:
+Integrate the above into our SDLC and change management processes.
+
+Establish a checklist for cloud engagements covering due diligence, risk assessment, and AMCM submission.
+
+Collaborate with Legal and Compliance to review and update cloud contracts and policies.
+
+Let’s ensure all future cloud-related projects are designed and executed in full compliance with AMCM requirements.
